@@ -17,7 +17,7 @@ I am a beginner learning to code. I love building cool projects!
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ## 📊 My GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mathi-offl&show_icons=true&theme=radical)
 
 ## 📫 How to reach me
 - Email: mathivananm2218@gmail.com
